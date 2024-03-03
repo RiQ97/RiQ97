@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
+<img align="right" style="border-radius: 50%" height="150" width="140" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
 
 ###
 
