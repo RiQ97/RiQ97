@@ -19,7 +19,7 @@
 
 ###
 
-<div class="image-container">
+<div class="image-container" style = "display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=riq97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riq97&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" border-radius="50%" height="145" width="135" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/riq97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riq97" height="30" width="40" /></a>
 <a href="https://instagram.com/ri_tik801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ri_tik801" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@unknownritikraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@unknownritikraj" height="30" width="40" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=riq97&label=Profile%20views&color=0e75b6&style=flat" alt="riq97" />
+
 </p>
 
 ###
@@ -44,3 +44,5 @@
 </picture>
 
 ###
+
+<img align="left" src="https://komarev.com/ghpvc/?username=riq97&label=Profile%20views&color=0e75b6&style=flat" alt="riq97" />
