@@ -6,8 +6,9 @@
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=riq97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riq97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 </div>
+
+<br clear="both">
   <img align="right" border-radius="50%" height="150" width="135" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
 <div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=riq97&label=Profile%20views&color=0e75b6&style=flat" alt="riq97" /> </p>
