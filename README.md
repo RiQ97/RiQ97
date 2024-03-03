@@ -6,7 +6,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=riq97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=riq97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" border-radius="50%" height="140" width="120" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
+  <img align="right" border-radius="50%" height="145" width="130" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
 
 </div>
 
