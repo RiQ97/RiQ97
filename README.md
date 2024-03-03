@@ -5,13 +5,6 @@
 <img align="right" height="150" src="https://github.com/RiQ97/RiQ97/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503"  />
 
 ###
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
