@@ -23,18 +23,18 @@
 ### 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritikiitg&theme=dracula" height="150" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikiitg&theme=dracula" height="150" alt="languages" />
-  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="150" width="130" alt="Amazing GIF" style="border-radius: 3%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritikiitg&theme=dracula" height="150" alt="stats" /> &nbsp
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikiitg&theme=dracula" height="150" alt="languages" /> &nbsp
+  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="150" width="130" alt="Amazing GIF" style="border-radius: 10%;" />
 </div>
 
 ###
 
 <p align="center">
-<a href="https://twitter.com/ri_tik801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ri_tik801" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritikiitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikiitg" height="30" width="40" /></a>
+<a href="https://twitter.com/ritikiitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikiitg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritik97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik97" height="30" width="40" /></a>
 <a href="https://instagram.com/ri_tik801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ri_tik801" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@unknownritikraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@unknownritikraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ritikiitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ritikiitg" height="30" width="40" /></a>
 
 </p>
 
