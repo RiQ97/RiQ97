@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Ritik Raj.. a Data Scientist | Software Developer from India</h2>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F1E05A&center=true&vCenter=true&width=1000&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor&prefix=Hi+%F0%9F%91%8B!,+I'm+Ritik+Raj..+a+" alt="Typing SVG" />
+</div>
 
 <div align="center">
   
