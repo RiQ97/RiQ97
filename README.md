@@ -48,4 +48,4 @@
 
 ###
 
-<img align="left" src="https://komarev.com/ghpvc/?username=ritikiitg&label=Profile%20views&color=0e75b6&style=flat" alt="ritikiitg" />
+<img align="left" src="https://komarev.com/ghpvc/?username=ritikiitg&label=Profile%20views&color=0e75b6&style=flat&base=4790" alt="ritikiitg" />
