@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritikiitg&theme=dracula" height="150" alt="stats" /> &nbsp
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikiitg&theme=dracula" height="150" alt="languages" /> &nbsp
-  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="180" width="130" alt="Amazing GIF" style="border-radius: 10%;" />
+  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="180" width="150" alt="Amazing GIF" style="border-radius: 10%;" />
 </div>
 
 ###
