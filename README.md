@@ -22,7 +22,7 @@
 <div align = 'center' align-items='center' >
   <img src="https://github-readme-stats.vercel.app/api?username=ritikiitg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikiitg&locale=en&hide_title=false&layout=compact&card_width=130%&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>&nbsp;
-  <img align="right" height="150" width="130" src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503&card_width=135&hide_border=false&border-radius=50%" alt="Amazing GIF" />
+  <img align="right" height="150" width="130" src="https://github.com/user-attachments/assets/6d5fc89e-e701-45e0-9580-18c4744f8114&card_width=135&hide_border=false&border-radius=50%" alt="Amazing GIF" />
 </div>
 
 ###
