@@ -1,5 +1,6 @@
-<div align="center">
-  <h1 style="display: inline; margin-right: 8px;">Hello 👋, I'm Ritik Raj.. a</h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
+  <h1 style="margin: 0; font-size: 2.2rem; font-weight: 700; line-height: 1.2;">Hello 👋, I'm Ritik Raj.. a</h1>
   <img 
     style="vertical-align: middle;"
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70d70d&size=32&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor" />
@@ -26,7 +27,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritikiitg&theme=dracula" height="150" alt="stats" /> &nbsp
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikiitg&theme=dracula" height="150" alt="languages" /> &nbsp
-  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="180" width="147" alt="Amazing GIF" style="border-radius: 10%;" />
+  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="180" width="145" alt="Amazing GIF" style="border-radius: 10px;" />
 </div>
 
 ###
