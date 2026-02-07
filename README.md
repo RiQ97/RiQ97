@@ -1,4 +1,4 @@
-<div align="center" align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div align="center">
   <h1 style="display:inline; margin:0;">Hello 👋, I'm Ritik Raj.. a</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70d70d&size=32&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor" />
 </div>
