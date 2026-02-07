@@ -1,9 +1,11 @@
 <div align="center">
-  <h1 style="display:inline; margin:0;">Hello 👋, I'm Ritik Raj.. a</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70d70d&size=32&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor" />
+  <h1 style="display: inline; margin-right: 8px;">Hello 👋, I'm Ritik Raj.. a</h1>
+  <img 
+    style="vertical-align: middle;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70d70d&size=32&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor" />
 </div>
 
-  
+<div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
