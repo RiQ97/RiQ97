@@ -1,14 +1,7 @@
 <p align="center">
-  <h1 style="font-size: 2.2rem; font-weight: 700; vertical-align: middle;">
-    Hello 👋, I'm Ritik Raj.. a
-  </h1>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&lines=web+developer;data+scientist;ML+enthusiast;AI+explorer;open-source+contributor"
-    alt="Typing SVG"
-    style="vertical-align: middle; height: 2.6rem;"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1000&size=27&pause=10000&color=6F0DD7&lines=Hi%20👋,%20I'm%20Ritik%20Raj..%20a&fontSize=32&fontAlignY=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&pause=1000&color=70d70d&lines=Data+Scientist;Web+Developer;ML+Enthusiast;AI+Explorer;Open-Source+Contributor" />
 </p>
-
 
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -31,7 +24,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritikiitg&theme=dracula" height="150" alt="stats" /> &nbsp
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikiitg&theme=dracula" height="150" alt="languages" /> &nbsp
-  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" height="180" width="145" alt="Amazing GIF" style="border-radius: 10px;" />
+  <img src="https://github.com/ritikiitg/ritikiitg/assets/109206929/db546418-c637-418e-bdf4-06158b0dc503" width="149" alt="Amazing GIF" />
 </div>
 
 ###
