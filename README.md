@@ -1,7 +1,7 @@
 <p align="center">
-  <span style="font-size: 2.2rem; font-weight: 700; vertical-align: middle;">
+  <h1 style="font-size: 2.2rem; font-weight: 700; vertical-align: middle;">
     Hello 👋, I'm Ritik Raj.. a
-  </span>
+  </h1>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&lines=web+developer;data+scientist;ML+enthusiast;AI+explorer;open-source+contributor"
     alt="Typing SVG"
