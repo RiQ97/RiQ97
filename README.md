@@ -1,10 +1,14 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<p align="center">
+  <span style="font-size: 2.2rem; font-weight: 700; vertical-align: middle;">
+    Hello 👋, I'm Ritik Raj.. a
+  </span>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&lines=web+developer;data+scientist;ML+enthusiast;AI+explorer;open-source+contributor"
+    alt="Typing SVG"
+    style="vertical-align: middle; height: 2.6rem;"
+  />
+</p>
 
-  <h1 style="margin: 0; font-size: 2.2rem; font-weight: 700; line-height: 1.2;">Hello 👋, I'm Ritik Raj.. a</h1>
-  <img 
-    style="vertical-align: middle;"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70d70d&size=32&lines=data+scientist;web+developer;ML+enthusiast;AI+explorer;open-source+contributor" />
-</div>
 
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
